@@ -1,0 +1,1 @@
+Interface grafica para função de limpeza de tabelas do banco de dados do renaest.
